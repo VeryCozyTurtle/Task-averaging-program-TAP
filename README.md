@@ -16,10 +16,6 @@ Click the button to start tracking time intervals.
 Observe the running average of logged times.
 Potential Improvements:
 
-File Renaming: Implement a feature to rename log files for better organization.
-Log Protection: Safeguard log files against accidental modification or deletion.
-Dependencies:
-
 Python 3.x
 tkinter (usually comes pre-installed with Python)
 Installation:
@@ -27,5 +23,3 @@ Installation:
 Clone the repository or download the Python script.
 Ensure Python is installed.
 Run the script in a Python environment.
-Contributing:
-Contributions and suggestions are welcome! Fork the repository, make changes, and submit a pull request.
