@@ -1,6 +1,6 @@
 # Task-averaging-program-TAP
 Description:
-TimeLogger is a Python app leveraging Tkinter for time tracking. It logs intervals of activity, aiding in productivity and focus management.
+TAP is a Python app leveraging Tkinter for time tracking. It logs intervals of activity, aiding in productivity and focus management.
 
 Features:
 
